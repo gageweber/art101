@@ -1,0 +1,22 @@
+body{
+  background-color: grey
+}
+
+h1{
+color: white;
+}
+
+P{
+  color:purple;
+
+}
+
+#callout {
+  background-color: tan;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+}
+#my-portrait {
+    width: 250px;
+}
