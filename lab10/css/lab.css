@@ -1,0 +1,31 @@
+label, input, button {
+  display:block;
+}
+
+head {
+  color: Green;
+  font-size: 40px;
+  background-color: pink;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjlaOrmuFja_d1hL3X72QX1WYzJmiv_LyXQ&usqp=CAU");
+  background-position: right;
+}
+
+div {
+  width: 500px;
+  background-color: lightgreen;
+}
+
+h2 {
+  color: darkgreen;
+  width: 500px;
+  background-color: lightgreen;
+}
+
+p {
+  color: brown;
+  width: 500px;
+  background-color: #ff9d5c;
+}
