@@ -1,0 +1,30 @@
+#challenges{
+  width: 40%;
+  height: 40%;
+  background-color: maroon;
+  margin: auto;
+}
+#problems{
+  width: 40%;
+  height: 40%;
+  background-color: blue;
+  margin: auto;
+}
+#results{
+  width: 40%;
+  height: 40%;
+  background-color: yellow;
+  margin: auto;
+}
+#input-output{
+  width: 40%;
+  height: 40%;
+  background-color: Green;
+  margin: auto;
+}
+
+P{
+  color: black;
+  margin: auto;
+
+}
